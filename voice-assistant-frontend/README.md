@@ -5,8 +5,6 @@ This is a starter template for [LiveKit Agents](https://docs.livekit.io/agents) 
 
 This template is built with Next.js and is free for you to use or modify as you see fit.
 
-![App screenshot](/.github/assets/frontend-screenshot.jpeg)
-
 ## Getting started
 
 > [!TIP]
