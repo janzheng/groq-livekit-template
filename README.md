@@ -67,7 +67,7 @@ You'll need a free LiveKit Cloud account to handle the real-time media infrastru
 
 #### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+gh repo clone janzheng/groq-livekit-template
 cd groq-livekit
 ```
 
