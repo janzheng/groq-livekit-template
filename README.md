@@ -1,8 +1,14 @@
 # LiveKit + Groq Voice AI Assistant
 
-**A complete starter template for building end-to-end voice AI assistants powered by Groq's lightning-fast inference and LiveKit's real-time infrastructure**
+[LiveKit](https://livekit.io) complements Groq's high-performance speech recognition capabilities by providing text-to-speech and real-time communication features. This integration enables you to build end-to-end AI voice applications with:
 
-This template provides everything you need to get started building voice AI applications, including a modern Next.js user interface and a Python AI agent backend. Experience natural voice conversations with sub-second response times using Groq's optimized models and LiveKit's battle-tested real-time media platform.
+- **Complete Voice Pipeline:** Combine Groq's fast and accurate speech-to-text (STT) with LiveKit's text-to-speech (TTS) capabilities
+- **Real-time Communication:** Enable multi-user voice interactions with LiveKit's WebRTC infrastructure
+- **Flexible TTS Options:** Access multiple text-to-speech voices and languages through LiveKit's TTS integrations
+- **Scalable Architecture:** Handle thousands of concurrent users with LiveKit's distributed system
+
+
+This repository is a complete starter template for building end-to-end voice AI assistants with natural voice conversations and sub-second response times using Groq's optimized models and LiveKit's real-time media platform.
 
 ## Live Demo
 
